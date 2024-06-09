@@ -3,3 +3,5 @@ Python project - Analyze Diwali sales data to improve customer experience and bo
 Here we have added data in Excel Sheet.
 Also that is converted in csv format.
 Also through Jupyter Notebook used Python for analysis.
+
+This is a complete python project used for data analyst role.
